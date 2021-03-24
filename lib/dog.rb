@@ -12,6 +12,6 @@ class Dog
   end
 
   def breed
-    @pup_breed
+    @breed
   end
 end
